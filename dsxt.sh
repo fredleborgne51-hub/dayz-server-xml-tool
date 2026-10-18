@@ -21,7 +21,7 @@ BCMD="./"
 
 BASE="/home/dayz/servers"
 
-VERSION="V3.05"
+VERSION="V3.06"
 HEADER="= DayZ Server XML Tool ${VERSION} =============================="
 FOOTER="=============================================== FLB/OpenIA ="
 
