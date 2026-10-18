@@ -2,6 +2,8 @@
 
 DSXT is a Bash tool for managing custom XML blocks in DayZ server missions.
 
+[Version Française](README_FR.md)
+
 ## Purpose
 
 DayZ server administrators may need to restore, update, compare, or reorganize custom XML entries after game updates or configuration changes. DSXT manages this work using XML fragments prepared in advance.
