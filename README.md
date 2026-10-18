@@ -27,6 +27,10 @@ DSXT does **not** detect installed mods or generate XML configuration automatica
 - `xmllint` for XML validation
 - A DayZ server mission containing the XML files to manage
 
+### Execution permissions
+
+Run DSXT as the Linux user who owns the DayZ server files and directories. Do not run it as `root`, as this may cause file ownership or permission issues.
+
 ## Installation
 
 Place `dsxt.sh` in the directory containing your DayZ server directories.
